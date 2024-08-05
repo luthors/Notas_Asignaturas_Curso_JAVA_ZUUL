@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
+<<<<<<< HEAD
 .metadata
+=======
+
+>>>>>>> 5fd9445dcdf59d6c190df4db36ad71a05df447df
 ### Java ###
 # Compiled class file
 *.class
@@ -27,4 +31,8 @@
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/java
+=======
+# End of https://www.toptal.com/developers/gitignore/api/java
+>>>>>>> 5fd9445dcdf59d6c190df4db36ad71a05df447df
